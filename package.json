@@ -1,0 +1,15 @@
+{
+  "name": "adgenius-ai",
+  "private": true,
+  "scripts": {
+    "server": "cd server && node src/server.js",
+    "client": "cd client && npm run dev -- --host 0.0.0.0",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "dependencies": {
+    "mongodb": "^7.1.1"
+  }
+}
