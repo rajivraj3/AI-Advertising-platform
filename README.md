@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Advertising Platform
 
 ## 🚀 Overview
@@ -266,3 +267,6 @@ All endpoints below are mounted under `http://localhost:5000`.
 - The frontend API client is configured for `http://localhost:5000/api`.
 - Start the backend before using authenticated frontend features.
 - Run `npm run build` and `npm run lint` inside `client` to validate the frontend before deployment.
+=======
+# AI-Advertising-platform
+>>>>>>> ab149158268e47eb369c7272e64eb1954823c5ea
