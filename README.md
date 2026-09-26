@@ -270,3 +270,6 @@ All endpoints below are mounted under `http://localhost:5000`.
 =======
 # AI-Advertising-platform
 >>>>>>> ab149158268e47eb369c7272e64eb1954823c5ea
+## 🚀 Live Demo
+
+[View Live Project](https://ai-advertising-platform.netlify.app)
